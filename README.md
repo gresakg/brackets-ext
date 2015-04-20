@@ -7,9 +7,9 @@ I am using [Team Extensions by WebPad](https://www.genuitec.com/products/webpad/
 ## Instructions
 
 - Download and install [Brackets](http://brackets.io/)
-- Find the [Team Extensions by WebPad](https://www.genuitec.com/products/webpad/teamext/) extension in the extension manager and click install.
+- Find the [Team Extensions by WebPad](https://www.genuitec.com/products/webpad/teamext/) extension in the extension manager and click **Install**.
 - Clone this repo and open it in Brackets.
-- Open the extension manager and klick the icon **Team**
+- Open the extension manager and click the icon **Team**
 - Click **Install All** or just explore the Team extensions and install the ones that make sense for your work.
 
 Optionally you can first fork the repo and use your fork to manage, share and sync your prefered extensions on Github.
